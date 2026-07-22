@@ -78,6 +78,76 @@ I help businesses fix broken tracking, improve attribution and build reliable fi
 
 ---
 
+## 👨‍💻 About Me
+
+Hi, I'm **Naveed Tariq**, Founder of **Twebz** and a Digital Analytics Consultant with **5+ years of experience** helping eCommerce, SaaS, and enterprise businesses build reliable analytics and measurement systems.
+
+I specialize in **Server-side Google Tag Manager (sGTM), Google Analytics 4 (GA4), Meta Conversions API (CAPI), Google Ads Conversion Tracking, and Technical SEO**.
+
+My focus is helping businesses improve attribution accuracy, recover lost conversion data, and build privacy-first analytics infrastructure that supports smarter marketing decisions.
+
+I've worked with clients across the **UK, Netherlands, Finland, UAE**, and other international markets.
+---
+
+## 💼 Services
+
+- Server-side Google Tag Manager (sGTM)
+- Google Analytics 4 (GA4)
+- Meta Conversions API (CAPI)
+- Google Ads Conversion Tracking
+- Technical SEO
+- SEO Audits
+- Shopify SEO
+- WordPress SEO
+- Analytics Audits
+- Consent Mode v2
+- First-party Data Strategy
+---
+
+## 📈 Case Studies
+
+🏆 710% verified purchase conversion lift after rebuilding a complete server-side tracking infrastructure.
+
+📊 Processed and validated over **1.4M+ analytics events**.
+
+🌍 Delivered analytics solutions for clients across **UK, Netherlands, Finland, and UAE**.
+
+🎯 Managed tracking for **50+ Google Ads accounts**.
+
+📈 Achieved **590+ Top-10 keyword rankings** across **100+ websites**.
+---
+
+## 🤝 Who I Work With
+
+✔ eCommerce Brands
+
+✔ SaaS Companies
+
+✔ Marketing Agencies
+
+✔ Shopify Stores
+
+✔ WordPress Businesses
+
+✔ Startups
+
+✔ Enterprise Businesses
+---
+
+## 🛠 Analytics & Marketing Tools
+
+Google Tag Manager • Google Analytics 4 • BigQuery • Looker Studio • Stape • Taggrs • Tracklution • Microsoft Clarity • Hotjar • Mixpanel • Amplitude • PostHog • HubSpot • Zoho • Supermetrics
+---
+
+## 🚀 Featured Projects
+
+Coming Soon...
+
+- Digital Analytics Playbook
+- Server-side GTM Guide
+- GA4 Tracking Templates
+- Technical SEO Checklist
+
 ## 📫 Let's Connect
 
 <p align="center">
