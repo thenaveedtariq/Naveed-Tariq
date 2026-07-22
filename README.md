@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Naveed Tariq Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋 I'm Naveed Tariq</h1>
-
 <h3 align="center">
 Founder of <strong>Twebz</strong> • Digital Analytics Consultant • Server-side GTM Specialist
 </h3>
