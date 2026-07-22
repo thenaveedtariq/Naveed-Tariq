@@ -50,3 +50,39 @@ I help businesses fix broken tracking, improve attribution and build reliable fi
 - ✅ First-party Data Pipelines
 
 ---
+
+## 🏆 Proof Points
+
+<p align="center">
+  <img src="https://img.shields.io/badge/5%2B_Years-Experience-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/50%2B-Google_Ads_Accounts-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/590%2B-Top_10_Keyword_Rankings-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/100%2B-Websites_Optimized-purple?style=for-the-badge" />
+</p>
+
+- 🌍 Clients across **UK, Netherlands, Finland & UAE**
+- ⚡ **1.4M+ events** tracked and reconciled across client accounts
+- 🚀 **710% verified purchase-conversion lift** from a full server-side tracking rebuild
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,wordpress,cloudflare" />
+</p>
+
+**Analytics & Tracking:** GA4 • GTM • BigQuery • Looker Studio • Amplitude • Mixpanel • PostHog • Hotjar • Microsoft Clarity • Supermetrics • Stape • Taggrs • Tracklution • HubSpot • Zoho
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://twebz.com">🌐 Website</a> •
+  <a href="https://www.linkedin.com/in/naveed-tariq-web-tracking-and-analytics-specialist/">LinkedIn</a> •
+  <a href="https://www.behance.net/gallery/244354475/Web-Analytics-and-Tracking-Portfolio">Behance</a> •
+  <a href="https://thenaveedtariq.medium.com/">Medium</a> •
+  <a href="https://x.com/thenaveedtariq">X</a> •
+  <a href="https://www.instagram.com/naveed.tariqofficial/">Instagram</a>
+</p>
