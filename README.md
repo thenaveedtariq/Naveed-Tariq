@@ -34,7 +34,9 @@ Helping eCommerce, SaaS and enterprise businesses build accurate analytics syste
 
 </p>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Digital+Analytics+Consultant;Server-side+GTM+Specialist;GA4+%7C+Meta+CAPI+%7C+Technical+SEO;Helping+Businesses+Build+Reliable+Tracking" />
+</p>
 
 ## 🚀 What I Build
 
